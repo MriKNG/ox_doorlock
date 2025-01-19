@@ -1,3 +1,18 @@
+# Edited
+## QB-Core Support
+Re-added QB-Core support since it was dropped from the original version of ox_doorlock.
+
+## NoPixel 4 inspired Sprites
+Changed the default lock and unlock sprite to the NoPixel Inspired sprites
+
+## Preview
+### Locked
+![image](https://media.discordapp.net/attachments/1327681775689924680/1330617943205220484/image.png?ex=678ea207&is=678d5087&hm=f53146cc6ed7142559eb3eef6a345ddc8d939121309cbba9546260f50c4ef894&=&format=webp&quality=lossless&width=810&height=396)
+
+### Unlocked
+![image](https://media.discordapp.net/attachments/1327681775689924680/1330617976331960330/image.png?ex=678ea20f&is=678d508f&hm=53fa926ba2ea34ba908301a9914232d889b25690fd38e03cb72df350df608b48&=&format=webp&quality=lossless&width=550&height=271)
+
+# Original
 # Ox Doorlock
 
 Door management resource, with compatibility for [ox_core](https://github.com/overextended/ox_core), [es_extended](https://github.com/esx-framework/esx_core), [nd_core](https://github.com/ND-Framework/ND_Core), and [qbox](https://github.com/Qbox-project/qbx_core).  
